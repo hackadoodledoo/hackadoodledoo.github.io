@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'A very gracious invitation was returned, and the evening no longer dreaded by the fair mistress of the mansion.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      ' Why, it’s a looking-glass book, of course!',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'  ,
+      'My sensations were strange. Let me try to explain them.'  ,
   'example4' : 
-       'But it was not of my own bell that I set out to write.'
+       'Your face, my thane, is as a book where men'
 };
 
 function status(statusText) {
