@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'My sensations were strange. Let me try to explain them.'  ,
   'example4' : 
-       'Your face, my thane, is as a book where men'
+       'But now they rise againe With twenty mortall murthers on their crownes'
 };
 
 function status(statusText) {
