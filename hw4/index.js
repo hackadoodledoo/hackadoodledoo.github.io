@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'A very gracious invitation was returned, and the evening no longer dreaded by the fair mistress of the mansion.',
   'example2':
-      ' Why, it’s a looking-glass book, of course!',
+      'Descend from Heaven , Urania , by that name If rightly thou art called',
   'example3':
       'My sensations were strange. Let me try to explain them.'  ,
   'example4' : 
