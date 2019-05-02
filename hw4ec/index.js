@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'dark blue',
+      'orange',
   'example2':
       'green',
   'example3':
