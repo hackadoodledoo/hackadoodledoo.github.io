@@ -52,7 +52,7 @@ function doPredict(predict) {
   b = result.score[2]
   //console.log(score_string);
   status(
-      r+" "+ g+" "+b + ' c elapsed: ' + result.elapsed.toFixed(4) + ' ms)');
+      ""+r+" "+ g+" "+b + ' c elapsed: ' + result.elapsed.toFixed(4) + ' ms)');
 }
 
 function prepUI(predict) {
