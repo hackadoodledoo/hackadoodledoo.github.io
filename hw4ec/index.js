@@ -47,12 +47,12 @@ function disableLoadModelButtons() {
 function doPredict(predict) {
   const textField = document.getElementById('text-entry');
   const result = predict(textField.value);
-  r = result[0]
-  g = result[1]
-  b = result[2]
+  r = result.score[0]
+  g = result.score[1]
+  b = result.score[2]
   //console.log(score_string);
   status(
-      r+g+b + ' elapsed: ' + result.elapsed.toFixed(4) + ' ms)');
+      r+" "+ g+" "+b + ' elapsed: ' + result.elapsed.toFixed(4) + ' ms)');
 }
 
 function prepUI(predict) {
