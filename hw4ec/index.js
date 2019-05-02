@@ -54,7 +54,7 @@ function doPredict(predict) {
   status(
       ""+r+" "+ g+" "+b + ' c elapsed: ' + result.elapsed.toFixed(4) + ' ms)');
   const di = document.getElementById('lol');
-  di.style.background-color = "rgb("+r+","+g+","+b+")"
+  di.style.background = "rgb("+r+","+g+","+b+")"
 }
 
 function prepUI(predict) {
